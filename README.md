@@ -16,16 +16,16 @@ ex) 名前：MT
 出力された情報は保持されます。 
 
 ## Requirement
-Ubuntu 20.04
-Python3
-MySQL
+Ubuntu 20.04  
+Python3  
+MySQL  
 
 ## Setup
-$ sudo apt install apache2
-$ sudo apt install python3-pip
-$ sudo apt install mysql-server mysql-client
-$ sudo apt install cgid
-$ sudo apt-get install python3-dotenv
+$ sudo apt install apache2  
+$ sudo apt install python3-pip  
+$ sudo apt install mysql-server mysql-client  
+$ sudo apt install cgid  
+$ sudo apt-get install python3-dotenv  
 
 ## Authors
 takanorimasuda
