@@ -1,5 +1,6 @@
 # Name
-
+bbs.py
+「ひと言掲示板」
 
 ## Description
 名前と本文を書き込み、それを出力することができる掲示板です。
@@ -14,11 +15,10 @@ ex) 名前：MT
  
 出力された情報は保持されます。 
 
-## Environment
+## Requirement
+Ubuntu 20.04
 Python3
-
-## Usage
-
+MySQL
 
 ## Setup
 $ sudo apt install apache2
