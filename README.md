@@ -18,7 +18,7 @@ ex) 名前：MT
 ## Requirement
 Ubuntu 20.04  
 Python3  
-MySQL  
+MySQL8.0.23  
 
 ## Setup
 $ sudo apt install apache2  
